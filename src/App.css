@@ -1,0 +1,9 @@
+.cal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.cal-wrapper{
+    min-width: 350px;
+}

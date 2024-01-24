@@ -1,0 +1,13 @@
+.btn-wrapper{
+    display: flex;
+    height: 3em;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: #5a5a5a;
+    color: #fff;
+    flex: 1;
+    border-radius: 25px;
+    margin: 4px;
+    cursor: pointer;
+}
