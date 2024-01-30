@@ -7,3 +7,10 @@
 .cal-wrapper{
     min-width: 350px;
 }
+
+@media only screen and (max-width: 600px) {
+    .cal-container {
+      align-items: flex-end;
+      padding-bottom: 45px;
+    }
+  }
